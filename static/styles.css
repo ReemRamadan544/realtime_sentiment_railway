@@ -1,0 +1,33 @@
+body {
+    background-color: #f7f9fc;
+    font-family: 'Segoe UI', sans-serif;
+    transition: background-color 0.3s, color 0.3s;
+    text-align: center;
+}
+
+#welcomeSection {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+#lottie {
+    height: 200px;
+    margin: 0 auto 20px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-tabs {
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.tab-content {
+    text-align: left;
+}
+
+.fetched-data-header {
+    text-align: center;
+    margin-top: 30px;
+}
